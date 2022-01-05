@@ -2,6 +2,14 @@
 
 Our wedding website 💍
 
+A small, simple site for us and our guests.
+
+## Technologies
+
+- CSS framework: [PURE.css](https://purecss.io/)
+- Google Fonts:
+	- [Mea Culpa](https://fonts.google.com/specimen/Mea+Culpa)
+
 ## Stage 1 - Before the wedding
 
 This should have basic details & a way to RSVP
@@ -12,7 +20,6 @@ This should have basic details & a way to RSVP
 	- colours
 	- fonts
 - Landing page
-	- Photo?
 	- date & time
 	- countdown?
 - Details

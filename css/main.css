@@ -1,0 +1,18 @@
+@import url("colors.css");
+@import url("fonts.css");
+@import url("menu.css");
+@import url("banner.css");
+
+* {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    /* text-align: center; */
+    /* font-size:1.5em; */
+}
+
+body {
+    overflow: hidden;
+}
+img {
+    width:30%;
+}
