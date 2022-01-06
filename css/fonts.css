@@ -1,9 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&family=PT+Sans&family=Playfair+Display&display=swap');
 
-/* *, .pure-g [class *= "pure-u"] {   
-    font-family: 'Mea Culpa', cursive;
-} */
-
-h1 {
-    font-family: 'Mea Culpa', cursive;
+:root {
+    --cursive: 'Mea Culpa', cursive; 
+    --serif: 'Playfair Display', serif;
+    --sans-serif: 'PT Sans', sans-serif;
 }

@@ -9,6 +9,7 @@ A small, simple site for us and our guests.
 - CSS framework: [PURE.css](https://purecss.io/)
 - Google Fonts:
 	- [Mea Culpa](https://fonts.google.com/specimen/Mea+Culpa)
+    - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
 
 ## Stage 1 - Before the wedding
 
@@ -21,7 +22,7 @@ This should have basic details & a way to RSVP
 	- fonts
 - Landing page
 	- date & time
-	- countdown?
+	- what else should we put here?
 - Details
 - RSVP
 - l10n (english & eesti)
