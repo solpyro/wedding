@@ -10,6 +10,7 @@ A small, simple site for us and our guests.
 - Google Fonts:
 	- [Mea Culpa](https://fonts.google.com/specimen/Mea+Culpa)
     - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
+    - [Signika Negative](https://fonts.google.com/specimen/Signika+Negative)
 
 ## Stage 1 - Before the wedding
 

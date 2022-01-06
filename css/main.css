@@ -5,27 +5,22 @@
 @import url("banner.css");
 @import url("countdown.css");
 
-* {
-    color: var(--main-text);
-    font-family: var(--sans-serif);
-    /* text-align: center; */
-    /* font-size:1.5em; */
-}
-
-/* *, .pure-g [class *= "pure-u"] {   
-    font-family: 'Mea Culpa', cursive;
-} */
-
-
 body {
     /* overflow: hidden; */
     background-color: var(--main-background);
+    font-family: var(--serif);
+    color: var(--main-text);
+}
+
+.pure-g [class *= "pure-u"] {   
+    font-family: var(--serif);
 }
 
 h1 {
     font-family: var(--cursive);
+    font-weight: normal;
 }
 
 img {
-    width:30%;
+    width: 30%;
 }
