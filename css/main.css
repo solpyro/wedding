@@ -4,6 +4,7 @@
 @import url("menu.css");
 @import url("banner.css");
 @import url("countdown.css");
+@import url("about-me.css");
 
 body {
     /* overflow: hidden; */
@@ -18,6 +19,10 @@ body {
 
 h1 {
     font-family: var(--cursive);
+    font-weight: normal;
+}
+h2 {
+    font-family: var(--sans-serif);
     font-weight: normal;
 }
 

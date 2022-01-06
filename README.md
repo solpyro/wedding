@@ -23,18 +23,15 @@ This should have basic details & a way to RSVP
 	- fonts
 - Landing page
 	- date & time
-	- what else should we put here?
-- Details
+	- personal bio
+    - our story/about us
+- Venues
+    - Details
 - RSVP
 - l10n (english & eesti)
 
-Potential elements:
-- Countdown
-- Happy Couple
-- Love Story
+Other Potential elements:
 - Our Photos
-- Venues
-- RVSP
 - Donations
 
 # Stage 2 - Plans are locked
