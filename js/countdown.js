@@ -1,9 +1,11 @@
 var weddingDay = new Date("2022-09-10T14:00:00.000+02:00").getTime();
 
-var interval, element;
+var interval, elementEn, elementEt;
 
 window.addEventListener('load', () => {
-    element = document.getElementById("countdown");
+    elementEn = document.getElementById("countdown-en");
+    elementEt = document.getElementById("countdown-et");
+
     interval = setInterval(function() {
         var now = new Date().getTime();
         var d = weddingDay - now;
@@ -18,6 +20,13 @@ window.addEventListener('load', () => {
             //set 'now' message
         }
         
-        element.innerHTML = days+" days, "+hours+" hours, "+minutes+" minutes, "+seconds+" seconds";		
+        elementEn.innerHTML = `${days} ${plural(days,"day","s")}, ${hours} ${plural(hours, "hour","s")}, ${minutes} ${plural(minutes, "minute","s")}, ${seconds} ${plural(seconds, "second","s")}`;
+        elementEt.innerHTML = `${days} ${plural(days, "päev","a")}, ${hours} ${plural(hours,"tund","i")}, ${minutes} ${plural(minutes,"minut","it")}, ${seconds}  ${plural(seconds, "sekund","it")}`;
     });
 });
+
+function plural(number, word, suffix) {
+    if(number === 1)
+        return word;
+    return word+suffix;
+}

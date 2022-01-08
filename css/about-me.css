@@ -6,19 +6,7 @@
 .about-me .photo {
     border-radius: 50%;
 }
-.about-me .name {
 
-}
 .about-me .about {
     margin: 0 10%;
-}
-
-
-
-@media (min-width: 44em) { /* 700px */
-  
-}
-
-@media (min-width:58em) { /* 930px */
-  
 }
