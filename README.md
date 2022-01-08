@@ -29,6 +29,7 @@ This should have basic details & a way to RSVP
     - Details
 - RSVP
 - l10n (english & eesti)
+    - check the cookie works online
 
 Other Potential elements:
 - Our Photos
