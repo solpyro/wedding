@@ -1,0 +1,8 @@
+.footer {
+    background-color: var(--panel-background);
+    color: var(--main-background);
+    text-align: center;
+    margin-top: 2rem;
+    padding: 2rem 0 1rem;
+    font-size: 1.5rem;
+}
