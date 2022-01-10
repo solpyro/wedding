@@ -22,7 +22,7 @@ window.addEventListener('load', () => {
         
         elementEn.innerHTML = `${days} ${plural(days,"day","s")}, ${hours} ${plural(hours, "hour","s")}, ${minutes} ${plural(minutes, "minute","s")}, ${seconds} ${plural(seconds, "second","s")}`;
         elementEt.innerHTML = `${days} ${plural(days, "päev","a")}, ${hours} ${plural(hours,"tund","i")}, ${minutes} ${plural(minutes,"minut","it")}, ${seconds}  ${plural(seconds, "sekund","it")}`;
-    });
+    }, 100);
 });
 
 function plural(number, word, suffix) {

@@ -6,7 +6,7 @@
     background-attachment:local;
     background-size: cover;
 
-    height: 12.5em;
+    height: 12.5rem;
     width:100%;
     display:flex;
     align-items: center;
@@ -15,7 +15,7 @@
 
 .banner-title {
     color: var(--main-background);
-    font-size: 4em;
+    font-size: 4rem;
     line-height: 0.7;
     text-align:center;
 }
@@ -27,18 +27,18 @@
 }
 
 .banner-title span {
-    font-size: 0.6em;
+    font-size: 2.4rem;
     color: var(--main-background);
     font-family: inherit;
 }
 
-@media (min-width: 44em) { /* 700px */
+@media (min-width: 44rem) { /* 700px */
     .banner {
-        height: 25em;
+        height: 25rem;
         background-position: 50% 50%;
     }
     .banner-title {
-        padding-right: 5em;
+        padding-right: 20rem;
     }
     .banner-title.bottom {
         display: none;
@@ -48,8 +48,8 @@
     }
 }
 
-@media (min-width:58em) { /* 930px */
+@media (min-width:58rem) { /* 930px */
     .banner-title {    
-        padding-right: 8em;
+        padding-right: 32rem;
     }
 }

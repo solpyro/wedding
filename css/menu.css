@@ -1,7 +1,7 @@
 .menu-bar {
     background-color: var(--menu-background);
     -webkit-font-smoothing: antialiased;
-    height: 2.1em;
+    height: 2.1rem;
     overflow: hidden;
     -webkit-transition: height 0.5s;
     -moz-transition: height 0.5s;
@@ -15,7 +15,7 @@
 }
 
 body {
-    padding-top: 2.1em;
+    padding-top: 2.1rem;
 }
 
 .menu-toggle {
@@ -24,7 +24,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    display: none;
+    display: block;
 }
 
 .menu-toggle .bar {
@@ -60,20 +60,28 @@ body {
     transform: rotate(-45deg);
 }
 
-.menu-items {
-    text-align: right;
-}
-
 .menu-bar.open {
-    height: 8.5em;
+    height: 8.5rem;
 }
 
-@media (max-width: 48em) {
+@media (min-width: 48rem) {  /* 768px */
     .menu-items {
-        text-align: left;
+        text-align: right;
     }
 
     .menu-toggle {
-        display: block;
+        display: none;
+    }
+}
+
+
+@media (min-width:58rem) { /* 930px */
+    body {
+        padding-top: 3.25rem;
+    }
+
+    .menu-bar {
+        height: 3.25rem;
+        font-size: 1.5rem;
     }
 }

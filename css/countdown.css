@@ -1,24 +1,25 @@
 .countdown {
     font-family: var(--serif);
-    font-size: 1.5em;
+    font-size: 1.5rem;
     line-height:1.1;
-    padding:.6em 0 .8em;
+    padding:.9rem 0 1.2rem;
     text-align:center;
 }
 
-@media (min-width: 44em) { /* 700px */
+@media (min-width: 44rem) { /* 700px */
     .countdown {    
-        font-size: 2em;
+        font-size: 2rem;
         background-color: var(--panel-background);
         color: var(--main-background);
+        padding:1.2rem 0 1.6rem;
     }
 }
 
-@media (min-width:58em) { /* 930px */
+@media (min-width:58rem) { /* 930px */
     .countdown {    
         width: 75%;
-        border-radius:0.2em;
-        margin: -1.75em auto 0;
-        padding:1.1em 0 1.3em;
+        border-radius:0.2rem;
+        margin: -2.4rem auto 0;
+        padding:1.1rem 0 1.3rem;
     }
 }

@@ -26,10 +26,6 @@ h2 {
     font-weight: normal;
 }
 
-img {
-    width: 30%;
-}
-
 body.loading  [lang=et] {
     display: none;
 }
