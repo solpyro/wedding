@@ -1,7 +1,7 @@
 .countdown {
     font-family: var(--serif);
     font-size: 1.5rem;
-    line-height:1.1;
+    line-height: 2rem;
     padding:.9rem 0 1.2rem;
     text-align:center;
 }
