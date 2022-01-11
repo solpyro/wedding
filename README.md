@@ -21,6 +21,9 @@ This should have basic details & a way to RSVP
 - Styling
 	- colours
 	- fonts
+- Replicate components across all pages
+    - PHP?
+    - js framework?
 - Landing page
 	- date & time
 	- personal bio
@@ -28,8 +31,6 @@ This should have basic details & a way to RSVP
 - Venues
     - Details
 - RSVP
-- l10n (english & eesti)
-    - check the cookie works online
 
 Other Potential elements:
 - Our Photos
@@ -37,15 +38,15 @@ Other Potential elements:
 
 # Stage 2 - Plans are locked
 
-Landing page remains, but the RSVP is disabled (replace with contact us directly instuctions?).
-Details can be filled out a little more. Maybe not too much though?
-Planned menu (subject to change)
+Landing page remains, but the RSVP is disabled (replace with contact us directly instuctions?).  
+Details can be filled out a little more. Maybe not too much though?  
+Planned menu (subject to change)  
 
 # Stage 3 - The Big Day
 
-Remove the timer
-Thorough venue joining instructions 
-Should have a section for any obvious questions
+Remove the timer  
+Thorough venue joining instructions  
+Should have a section for any obvious questions  
 
 - seating arrangement
 - menus
