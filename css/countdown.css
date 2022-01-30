@@ -10,7 +10,6 @@
     .countdown {    
         font-size: 2rem;
         background-color: var(--panel-background);
-        color: var(--main-background);
         padding: 1.2rem 0 1.6rem;
     }
 }

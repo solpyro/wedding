@@ -70,6 +70,14 @@ body {
     height: 14rem;
 }
 
+.pure-menu-heading,
+.menu-items .pure-menu-link {
+    color: var(--menu-text)
+}
+.menu-items .pure-menu-link:hover {
+    background-color: var(--menu-background-hover)
+}
+
 @media (min-width: 48rem) {  /* 768px */
     body {
         padding-top: 2.1rem;

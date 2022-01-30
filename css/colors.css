@@ -1,9 +1,20 @@
 :root {
-    --main-background: #fff;
-    --secondary-background: #999;
-    --menu-background: #ccc;
-    --panel-background: rgba(51,51,51,0.8);
+    --old-lace: rgb(249, 240, 226);
+    --cameo-pink: rgb(232, 190, 201);
+    --royal-blue-dark: rgb(0, 1, 59);
 
-    --main-text: #000;
-    --secondary-text: #000;
+    --cameo-pink-90: rgb(232, 190, 201, 0.9);
+    --cameo-pink-30: rgb(232, 190, 201, 0.3);
+    --royal-blue-dark-80: rgba(0, 1, 59, 0.8);
+
+    --main-background: var(--old-lace);
+    --secondary-background: var(--old-lace);
+    --menu-background: var(--royal-blue-dark);
+    --menu-background-hover: var(--cameo-pink-30);
+    --panel-background: var(--cameo-pink-90);
+    --footer-background: var(--royal-blue-dark-80);
+
+    --main-text: var(--royal-blue-dark);
+    --menu-text: var(--old-lace);
+    --secondary-text: var(--royal-blue-dark);
 }
