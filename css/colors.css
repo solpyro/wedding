@@ -1,10 +1,11 @@
 :root {
     --old-lace: rgb(249, 240, 226);
-    --cameo-pink: rgb(232, 190, 201);
-    --royal-blue-dark: rgb(0, 1, 59);
 
+    --cameo-pink: rgb(232, 190, 201);
     --cameo-pink-90: rgb(232, 190, 201, 0.9);
     --cameo-pink-30: rgb(232, 190, 201, 0.3);
+    
+    --royal-blue-dark: rgb(0, 1, 59);
     --royal-blue-dark-80: rgba(0, 1, 59, 0.8);
 
     --main-background: var(--old-lace);
