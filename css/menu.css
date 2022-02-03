@@ -77,6 +77,9 @@ body {
 .menu-items .pure-menu-link:hover {
     background-color: var(--menu-background-hover)
 }
+.menu-items .pure-menu-link:focus {
+    background-color: transparent;
+}
 
 @media (min-width: 48rem) {  /* 768px */
     body {
