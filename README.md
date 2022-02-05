@@ -6,7 +6,7 @@ A small, simple site for us and our guests.
 
 ## Technologies
 
-- CSS framework: [PURE.css](https://purecss.io/)
+- [PURE.css framework](https://purecss.io/)
 - Google Fonts:
 	- [Mea Culpa](https://fonts.google.com/specimen/Mea+Culpa)
     - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
@@ -18,12 +18,6 @@ This should have basic details & a way to RSVP
 
 ### To Do
 
-- Styling
-	- colours
-	- fonts
-- Replicate components across all pages
-    - PHP?
-    - js framework?
 - Landing page
 	- date & time
 	- personal bio
@@ -31,6 +25,9 @@ This should have basic details & a way to RSVP
 - Venues
     - Details
 - RSVP
+    - embedded google form?
+- 404 page
+    - styling and menu to allow easy return to site
 
 Other Potential elements:
 - Our Photos
