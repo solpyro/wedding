@@ -12,6 +12,10 @@ A small, simple site for us and our guests.
     - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
     - [Signika Negative](https://fonts.google.com/specimen/Signika+Negative)
 
+## Stage 0 - Save the date
+
+This should just ne the landing page and a come back soon
+
 ## Stage 1 - Before the wedding
 
 This should have basic details & a way to RSVP
@@ -27,16 +31,18 @@ This should have basic details & a way to RSVP
 - RSVP
     - embedded google form?
 - 404 page
-    - styling and menu to allow easy return to site
+    - translation
+- Footer
+    - Photo credit
 
 Other Potential elements:
-- Our Photos
+- Engagement Photos
 - Donations
 
 # Stage 2 - Plans are locked
 
 Landing page remains, but the RSVP is disabled (replace with contact us directly instuctions?).  
-Details can be filled out a little more. Maybe not too much though?  
+Details can be filled out a little more. Maybe not too much though?
 Planned menu (subject to change)  
 
 # Stage 3 - The Big Day
