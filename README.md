@@ -27,16 +27,16 @@ This should have basic details & a way to RSVP
 - RSVP
     - embedded google form?
 - 404 page
-    - styling and menu to allow easy return to site
+    - translation
 
 Other Potential elements:
-- Our Photos
+- Engagement Photos
 - Donations
 
 # Stage 2 - Plans are locked
 
 Landing page remains, but the RSVP is disabled (replace with contact us directly instuctions?).  
-Details can be filled out a little more. Maybe not too much though?  
+Details can be filled out a little more. Maybe not too much though?
 Planned menu (subject to change)  
 
 # Stage 3 - The Big Day
