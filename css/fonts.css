@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&family=Signika+Negative&family=Playfair+Display&display=swap');
+
+:root {
+    --cursive: 'Mea Culpa', cursive; 
+    --serif: 'Playfair Display', serif;
+    --sans-serif: 'Signika Negative', sans-serif;
+}

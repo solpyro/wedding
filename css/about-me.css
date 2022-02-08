@@ -1,0 +1,13 @@
+.about-me {
+    text-align: center;
+    padding-top:2rem;
+}
+
+.about-me .photo {
+    border-radius: 50%;
+    width:30%;
+}
+
+.about-me .about {
+    margin: 0 10%;
+}

@@ -1,0 +1,15 @@
+#content-container {
+    padding-bottom: 8rem;
+}
+
+.footer {
+    background-color: var(--footer-background);
+    color: var(--menu-text);
+    text-align: center;
+    padding: 2rem 0 1rem;
+    font-size: 1.5rem;
+
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
