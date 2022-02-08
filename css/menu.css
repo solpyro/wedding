@@ -14,10 +14,6 @@
     width:100%;
 }
 
-body {
-    padding-top: 2.73rem;
-}
-
 .menu-toggle {
     width: 2.73rem;
     height: 2.73rem;
@@ -82,9 +78,6 @@ body {
 }
 
 @media (min-width: 48rem) {  /* 768px */
-    body {
-        padding-top: 2.1rem;
-    }
     .menu-bar {
         height: 2.1rem;
         font-size: 1rem;
@@ -100,10 +93,6 @@ body {
 
 
 @media (min-width:58rem) { /* 930px */
-    body {
-        padding-top: 3.25rem;
-    }
-
     .menu-bar {
         height: 3.25rem;
         font-size: 1.5rem;
