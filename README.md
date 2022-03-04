@@ -14,7 +14,7 @@ A small, simple site for us and our guests.
 
 ## Stage 0 - Save the date
 
-This should just ne the landing page and a come back soon
+This should just be the landing page and a come back soon
 
 ## Stage 1 - Before the wedding
 
