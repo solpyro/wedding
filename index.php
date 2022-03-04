@@ -19,7 +19,16 @@
 
 				<div class="countdown" id="countdown-en" lang="en">0 days, 0 hours, 0 minutes, 0 seconds</div>
 				<div class="countdown" id="countdown-et" lang="et">0 päeva, 0 tundi, 0 minutit, 0 sekundit</div>
-			
+
+				<div class="save-the-date">
+					<p class="text" lang="en">&mdash; Save our date &mdash;</p>
+					<p class="text" lang="et">&mdash; ET Save our date &mdash;</p>
+					<p class="date" lang="en">10<sup>th</sup> September 2021</p>
+					<p class="date" lang="et">10s September 2021</p>
+					<p class="text" lang="en">We hope to see you in Tallinn</p>
+					<p class="text" lang="et">ET We hope to see you in Tallinn</p>
+				</div>
+
 				<div class="pure-g">
 					<div class="pure-u-1 pure-u-md-1-2 about-me">
 						<img src="img/katrin.jpg" class="photo" />

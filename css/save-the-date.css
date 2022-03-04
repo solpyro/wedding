@@ -1,0 +1,16 @@
+.save-the-date {
+    text-align: center;
+    margin: 2rem 0px 0px;
+}
+.save-the-date p {
+    margin: 0px;
+}
+
+.save-the-date .text {
+    font-size: 1.5rem;
+}
+
+.save-the-date .date {
+    font-family: var(--cursive);
+    font-size: 3.5rem;
+}
