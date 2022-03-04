@@ -36,6 +36,7 @@ This should have basic details & a way to RSVP
     - Photo credit
 
 Other Potential elements:
+- Couples & family photos
 - Engagement Photos
 - Donations
 
