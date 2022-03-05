@@ -15,7 +15,7 @@ A small, simple site for us and our guests.
 
 ## Releases
 
-0. [Placeholder countdown](https://github.com/solpyro/wedding/releases/tag/0.1.2) - Unbranded page with just our names and the countdown timer  
+0. [Placeholder countdown](https://github.com/solpyro/wedding/releases/tag/0.1.2) - Unbranded page with just our names and the countdown timer
 
 ## Stage 0 - Save the date
 
@@ -46,13 +46,13 @@ Other Potential elements:
 - Engagement Photos
 - Donations
 
-# Stage 2 - Plans are locked
+## Stage 2 - Plans are locked
 
 Landing page remains, but the RSVP is disabled (replace with contact us directly instuctions?).  
 Details can be filled out a little more. Maybe not too much though?  
 Planned menu (subject to change)  
 
-# Stage 3 - The Big Day
+## Stage 3 - The Big Day
 
 Remove the timer  
 Thorough venue joining instructions  
@@ -61,7 +61,13 @@ Should have a section for any obvious questions
 - seating arrangement
 - menus
 
-# Stage 4 - The Aftermath
+## Stage 4 - The Aftermath
 
 Thanks page  
 Photo upload/download - just a link to a google photos album?
+
+## References
+
+[Favicons](https://www.codegrepper.com/code-examples/html/meta+icon+html) - Current best practice, circa 2020  
+[Embedding Google Forms](https://paperform.co/blog/embed-google-form/)  
+[Material Icons](https://developers.google.com/fonts/docs/material_icons#setup_method_1_using_via_google_fonts) - Not yet sure if we want to use these, but keeping this here just in case  
