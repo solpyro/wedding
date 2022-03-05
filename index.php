@@ -39,8 +39,8 @@
 					<div class="pure-u-1 pure-u-md-1-2 about-me">
 						<img src="img/stuart.jpg" class="photo" />
 						<h2 clas="name">Stuart</h2>
-						<p lang="en" class="about">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-						<p lang="et" class="about">ET Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+						<p lang="en" class="about">Stuart grew up in Beeston, Nottingham, England, where he started his Scouting career. He studied Computer Science at university in Dundee, Scotland, but returned to Nottingham for work, and continued Scouting there until that fateful camp in Estonia.</p>
+						<p lang="et" class="about">ET Stuart grew up in Beeston, Nottingham, England, where he started his Scouting career. He studied Computer Science at university in Dundee, Scotland, but returned to Nottingham for work, and continued Scouting there until that fateful camp in Estonia.</p>
 					</div>
 				
 					<div class="pure-u-1 pure-u-md-2-3 about-me">
