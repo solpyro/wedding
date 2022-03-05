@@ -13,31 +13,34 @@ A small, simple site for us and our guests.
     - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
     - [Signika Negative](https://fonts.google.com/specimen/Signika+Negative)
 
+## Releases
+
+[Placeholder countdown](https://github.com/solpyro/wedding/releases/tag/0.1.2)
+- Unbranded page with just our names and the countdown timer  
+
 ## Stage 0 - Save the date
 
-This should just be the landing page and a come back soon
-- [ ] Katrin's bio
-- [ ] Tranlations
-- [x] Favicon
-
-## Stage 1 - Before the wedding
-
-This should have basic details & a way to RSVP
+The branded landing page with minimal details
 
 ### To Do
 
-- Landing page
-	- [x] Stuarts's bio
-	- [ ] Katrin's bio
-	- [x] Our story
+- [x] Stuarts's bio
+- [ ] Katrin's bio
+- [x] Our story
+- [ ] Tranlations
+- [x] Favicon
+- [ ] Photo credit
+
+## Stage 1 - Before the wedding
+
+Adds a Venues page and an RSVP method.
+
+### To Do
+
 - Venues
     - [ ] Details
 - RSVP
     - [ ] embedded google form?
-- 404 page
-    - [ ] translation
-- Footer
-    - [ ] Photo credit
 
 Other Potential elements:
 - Couples & family photos
