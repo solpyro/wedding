@@ -4,12 +4,12 @@
     line-height: 2rem;
     padding:.9rem 1rem 1.2rem;
     text-align:center;
+    background-color: var(--panel-background);
 }
 
 @media (min-width: 44rem) { /* 700px */
     .countdown {    
         font-size: 2rem;
-        background-color: var(--panel-background);
         padding: 1.2rem 0 1.6rem;
     }
 }
