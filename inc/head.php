@@ -12,4 +12,5 @@
         <link rel="stylesheet" href="css/main.css" />
 
         <script type="text/javascript" src="js/cookies.js"></script>
+        <script type="text/javascript" src="js/menu.js" ></script>
         <script type="text/javascript" src="js/translate.js" ></script>
