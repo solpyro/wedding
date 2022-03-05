@@ -6,6 +6,7 @@ A small, simple site for us and our guests.
 
 ## Technologies
 
+- PHP, HTML5, CSS3, JS
 - [PURE.css framework](https://purecss.io/)
 - Google Fonts:
 	- [Mea Culpa](https://fonts.google.com/specimen/Mea+Culpa)
@@ -17,7 +18,7 @@ A small, simple site for us and our guests.
 This should just be the landing page and a come back soon
 - [ ] Katrin's bio
 - [ ] Tranlations
-- [ ] Favicon
+- [x] Favicon
 
 ## Stage 1 - Before the wedding
 
@@ -26,15 +27,17 @@ This should have basic details & a way to RSVP
 ### To Do
 
 - Landing page
-	- Katrin's bio
+	- [x] Stuarts's bio
+	- [ ] Katrin's bio
+	- [x] Our story
 - Venues
-    - Details
+    - [ ] Details
 - RSVP
-    - embedded google form?
+    - [ ] embedded google form?
 - 404 page
-    - translation
+    - [ ] translation
 - Footer
-    - Photo credit
+    - [ ] Photo credit
 
 Other Potential elements:
 - Couples & family photos
@@ -44,7 +47,7 @@ Other Potential elements:
 # Stage 2 - Plans are locked
 
 Landing page remains, but the RSVP is disabled (replace with contact us directly instuctions?).  
-Details can be filled out a little more. Maybe not too much though?
+Details can be filled out a little more. Maybe not too much though?  
 Planned menu (subject to change)  
 
 # Stage 3 - The Big Day
@@ -58,5 +61,5 @@ Should have a section for any obvious questions
 
 # Stage 4 - The Aftermath
 
-Thanks page
+Thanks page  
 Photo upload/download - just a link to a google photos album?
