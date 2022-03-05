@@ -15,8 +15,7 @@ A small, simple site for us and our guests.
 
 ## Releases
 
-[Placeholder countdown](https://github.com/solpyro/wedding/releases/tag/0.1.2)
-- Unbranded page with just our names and the countdown timer  
+0. [Placeholder countdown](https://github.com/solpyro/wedding/releases/tag/0.1.2) - Unbranded page with just our names and the countdown timer  
 
 ## Stage 0 - Save the date
 
