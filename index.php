@@ -32,20 +32,20 @@
 				<div class="pure-g center">
 					<div class="pure-u-1 pure-u-md-1-2 about-me">
 						<img src="img/katrin.jpg" class="photo" />
-						<h2 class="name">Katrin</h2>
+						<h1 class="name">Katrin</h1>
 						<p lang="en" class="about">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 						<p lang="et" class="about">ET Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 					</div>
 					<div class="pure-u-1 pure-u-md-1-2 about-me">
 						<img src="img/stuart.jpg" class="photo" />
-						<h2 clas="name">Stuart</h2>
+						<h1 class="name">Stuart</h1>
 						<p lang="en" class="about">Stuart grew up in Beeston, Nottingham, England, where he started his Scouting career. He studied Computer Science at university in Dundee, Scotland, but returned to Nottingham for work, and continued Scouting there until that fateful camp in Estonia.</p>
 						<p lang="et" class="about">ET Stuart grew up in Beeston, Nottingham, England, where he started his Scouting career. He studied Computer Science at university in Dundee, Scotland, but returned to Nottingham for work, and continued Scouting there until that fateful camp in Estonia.</p>
 					</div>
 				
 					<div class="pure-u-1 pure-u-md-2-3 about-me">
-						<h2 lang="en" class="name">About us</h2>
-						<h2 lang="et" class="name">Meist</h2>
+						<h1 lang="en" class="name">About us</h1>
+						<h1 lang="et" class="name">Meist</h1>
 						<p lang="en" class="about">
 							Stuart and Katrin first met at a Scout camp in Aegviidu, Estonia, in 2016, where they were put in charge of 30 British and Estonian scouts for 10 days. Over the next couple of years, they had many adventures together in Estonia, England and Finland.
 							<br /><br />
