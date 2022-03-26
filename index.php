@@ -23,8 +23,8 @@
 				<div class="save-the-date">
 					<p class="text" lang="en">&mdash; Save our date &mdash;</p>
 					<p class="text" lang="et">&mdash; ET Save our date &mdash;</p>
-					<p class="date" lang="en">10<sup>th</sup> September 2021</p>
-					<p class="date" lang="et">10. September 2021</p>
+					<p class="date" lang="en">11<sup>th</sup> September 2022</p>
+					<p class="date" lang="et">11. September 2022</p>
 					<p class="text" lang="en">We hope to see you in Tallinn</p>
 					<p class="text" lang="et">ET We hope to see you in Tallinn</p>
 				</div>
