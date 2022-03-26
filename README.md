@@ -15,12 +15,13 @@ The branded landing page with minimal details
 ### To Do
 
 - [x] Stuarts's bio
-- [ ] Katrin's bio
+- [x] Katrin's bio
 - [x] Our story
 - [ ] Tranlations
 - [x] Favicon
 - [ ] Photo credit
-
+    - [ ] link for Rewen?
+    
 ## Stage 1 - Before the wedding
 
 Adds a Venues page and an RSVP method.
