@@ -7,20 +7,7 @@ A small, simple site for us and our guests.
 ## Releases
 
 0. [Placeholder countdown](https://github.com/solpyro/wedding/releases/tag/0.1.2) - Unbranded page with just our names and the countdown timer
-
-## Stage 0 - Save the date
-
-The branded landing page with minimal details
-
-### To Do
-
-- [x] Stuarts's bio
-- [x] Katrin's bio
-- [x] Our story
-- [x] Tranlations
-- [x] Favicon
-- [x] Photo credit
-    - [x] link for Rewen?
+1. [Save the Date](https://github.com/solpyro/wedding/releases/tag/1.0.0) - Branded website containing the landing page only
 
 ## Stage 1 - Before the wedding
 
@@ -29,9 +16,17 @@ Adds a Venues page and an RSVP method.
 ### To Do
 
 - Venues
-    - [ ] Details
+    - Church - Kaarli Kirik
+        - [ ] Photo
+        - [ ] Info
+        - [ ] Map
+    - Reception - Kulturi Katul 
+        - [ ] Photo
+        - [ ] Info
+        - [ ] Map
 - RSVP
     - [ ] embedded google form?
+- [ ] Translations
 
 Other Potential elements:
 - Couples & family photos
