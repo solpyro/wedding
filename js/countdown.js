@@ -1,4 +1,4 @@
-var weddingDay = new Date("2022-09-10T14:00:00.000+02:00").getTime();
+var weddingDay = new Date("2022-09-11T13:00:00.000+02:00").getTime();
 
 var interval, elementEn, elementEt;
 
