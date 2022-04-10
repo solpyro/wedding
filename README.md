@@ -17,7 +17,7 @@ The branded landing page with minimal details
 - [x] Stuarts's bio
 - [x] Katrin's bio
 - [x] Our story
-- [ ] Tranlations
+- [x] Tranlations
 - [x] Favicon
 - [x] Photo credit
     - [x] link for Rewen?

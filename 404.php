@@ -13,9 +13,9 @@
 			<div id="content-container">
 				<div class="about-me">
 					<img src="img/404.jpg" class="photo" />
-					<h2 class="name">404</h2>
+					<h1 class="name">404</h1>
 					<p lang="en" class="about">This page has been moved or removed. Please use the menu to find what you were looking for or contact us directly.</p>
-					<p lang="et" class="about">ET This page has been moved or removed. Please use the menu to find what you were looking for or contact us directly.</p>
+					<p lang="et" class="about">See leht on teisaldatud või eemaldatud. Kasutage otsitava leidmiseks menüüd või võtke meiega otse ühendust.</p>
 				</div>
 			</div>
 

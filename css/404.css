@@ -1,2 +1,10 @@
 @import url("banner.css");
 @import url("about-me.css");
+
+.about-me .name {
+    font-size: 4rem;
+    line-height: .1;
+}
+.about-me .about {
+    text-align: center;
+}
