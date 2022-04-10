@@ -19,9 +19,9 @@ The branded landing page with minimal details
 - [x] Our story
 - [ ] Tranlations
 - [x] Favicon
-- [ ] Photo credit
-    - [ ] link for Rewen?
-    
+- [x] Photo credit
+    - [x] link for Rewen?
+
 ## Stage 1 - Before the wedding
 
 Adds a Venues page and an RSVP method.
