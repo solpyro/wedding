@@ -17,10 +17,10 @@ Adds a Venues page and an RSVP method.
 
 - Venues
     - Church - Kaarli Kirik
-        - [ ] Photo
+        - [x] Photo
         - [ ] Info
     - Reception - Kulturi Katul 
-        - [ ] Photo
+        - [x] Photo
         - [ ] Info
     - Map
         - [x] Venues
