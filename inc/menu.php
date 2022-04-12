@@ -18,13 +18,13 @@
                             <span lang="en">Home</span><span lang="et">Esileht</span>
                         </a></li>
                         <li class="pure-menu-item"><a href="venues.php" class="pure-menu-link">
-                            <span lang="en">Venues</span><span lang="et">Peakoht</span>
+                            <span lang="en">Venues</span><span lang="et">Peokoht</span>
                         </a></li>
                         <li class="pure-menu-item"><a href="rsvp.php" class="pure-menu-link">
                             <span>RSVP</span>
                         </a></li>
                         <li class="pure-menu-item"><a href="#" id="language-toggle" class="pure-menu-link">
-                            <span lang="en">Eesti Keeles</span><span lang="et">In English</span>
+                            <span lang="en">Eesti keeles</span><span lang="et">In English</span>
                         </a></li>
                     </div>
                 </div>
