@@ -68,6 +68,7 @@ Photo upload/download - just a link to a google photos album?
 ## References
 
 [Favicons](https://www.codegrepper.com/code-examples/html/meta+icon+html) - Current best practice, circa 2020  
+[Embedding Google MyMaps](https://blog.duda.co/responsive-google-maps-for-your-website) - Many different options
 [Embedding Google Forms](https://paperform.co/blog/embed-google-form/)  
+[ngrok](https://ngrok.com/) - public urls for testing local code
 [Material Icons](https://developers.google.com/fonts/docs/material_icons#setup_method_1_using_via_google_fonts) - Not yet sure if we want to use these, but keeping this here just in case  
-[Embedding Google MyMaps](https://blog.duda.co/responsive-google-maps-for-your-website)
