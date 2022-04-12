@@ -18,7 +18,6 @@
 						<h1 lang="et" class="name">Kaarli Kirik</h1>
 						<p lang="en" class="about">EN Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 						<p lang="et" class="about">ET Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-						<!-- Directions -->
 					</div>
 					<div class="pure-u-1 pure-u-md-1-2 about-me">
 						<img src="img/kultuuri-katel.jpg" class="photo" />

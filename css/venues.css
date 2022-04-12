@@ -15,7 +15,6 @@
     position: absolute;
 }
 
-
 @media (min-width: 48rem) {  /* 768px */
     .map-container {
         padding-bottom:50%;
