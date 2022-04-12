@@ -1,1 +1,30 @@
 @import url("about-me.css");
+
+.map-container {
+    overflow:hidden;
+    padding-bottom:75%;
+    position: relative;
+    height: 0;
+    margin: 1% 10% 0;
+}
+.map-container iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position: absolute;
+}
+
+
+@media (min-width: 48rem) {  /* 768px */
+    .map-container {
+        padding-bottom:50%;
+        margin: 1% 5% 0;
+    }
+}
+
+@media (min-width:58rem) { /* 930px */
+    .map-container {
+        padding-bottom:30%;
+    }
+}

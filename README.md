@@ -19,11 +19,13 @@ Adds a Venues page and an RSVP method.
     - Church - Kaarli Kirik
         - [ ] Photo
         - [ ] Info
-        - [ ] Map
     - Reception - Kulturi Katul 
         - [ ] Photo
         - [ ] Info
-        - [ ] Map
+    - Map
+        - [x] Venues
+        - [ ] Transport links
+        - [ ] Suggested hotels
 - RSVP
     - [ ] embedded google form?
 - [ ] Translations
@@ -61,9 +63,11 @@ Photo upload/download - just a link to a google photos album?
 	- [Mea Culpa](https://fonts.google.com/specimen/Mea+Culpa)
     - [Playfair Display](https://fonts.google.com/specimen/Playfair+Display)
     - [Signika Negative](https://fonts.google.com/specimen/Signika+Negative)
+- [Google MyMaps](https://www.google.com/maps/d/u/2/edit?mid=1J22VIHL5AnnKP18g5PAfL9n_CttLZAmi&ll=59.43792965773319%2C24.73904526936969&z=14)
 
 ## References
 
 [Favicons](https://www.codegrepper.com/code-examples/html/meta+icon+html) - Current best practice, circa 2020  
 [Embedding Google Forms](https://paperform.co/blog/embed-google-form/)  
 [Material Icons](https://developers.google.com/fonts/docs/material_icons#setup_method_1_using_via_google_fonts) - Not yet sure if we want to use these, but keeping this here just in case  
+[Embedding Google MyMaps](https://blog.duda.co/responsive-google-maps-for-your-website)
