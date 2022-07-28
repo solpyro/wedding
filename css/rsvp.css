@@ -1,0 +1,20 @@
+@import url("about-me.css");
+
+iframe {
+    height:auto;
+    width:100%;
+    min-width:100%;
+}
+
+@media (min-width: 48rem) {  /* 768px */
+    .rsvp-container {
+        padding-bottom:50%;
+        margin: 1% 5% 0;
+    }
+}
+
+@media (min-width:58rem) { /* 930px */
+    .rsvp-container {
+        padding-bottom:30%;
+    }
+}

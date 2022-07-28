@@ -4,7 +4,7 @@
 <?php include 'inc/head.php' ?>
 		
 		<link rel="stylesheet" href="css/index.css" />
-		<script type="text/javascript" src="js/countdown.js" ></script>
+		<script type="text/javascript" src="js/countdown.js"></script>
 	</head>
 	<body class="loading">
 		<div id="page-container">
@@ -33,7 +33,7 @@
 					<div class="pure-u-1 pure-u-md-1-2 about-me">
 						<img src="img/katrin.jpg" class="photo" />
 						<h1 class="name">Katrin</h1>
-						<p lang="en" class="about">Katrin's happy and adventurous childhood was spent in the heart of Estonia, a town called Paide, until she moved to Tallinn to continue her education. She found her vocation during her studies as a preschool teacher at Tallinn University. Today, for 10 years now, she has lived, studied and worked in various interesting and less interesting jobs in Finland. One summer, when she didn't have a secure job and had unlimited use of her free time, a good friend called him to a scout camp.</p>
+						<p lang="en" class="about">Katrin's happy and adventurous childhood was spent in the heart of Estonia, a town called Paide, until she moved to Tallinn to continue her education. She found her vocation during her studies as a preschool teacher at Tallinn University. Today, for 10 years now, she has lived, studied and worked in various interesting and less interesting jobs in Finland. One summer, when she didn't have a secure job and had unlimited use of her free time, a good friend called her to a scout camp.</p>
 						<p lang="et" class="about">Katrini õnnelik ja seiklusi täis lapsepõlv möödus Eesimaa südames Paides kuni ta kolis oma haridusteed jätkama keskkooli Tallinnasse. Oma kutsumuse leidis ta Tallinna Ülikooli Alushariduse pedagoogi õpingutel. Tänaseks juba 10 aastat on ta elanud, õppinud ja töötanud erinevatel huvitavatel ja vähem huvitavatel töökohtadel Soomes. Ühel suvel kui tal veel kindlat töökohta ei olnud ja vaba-aega piiramatult kasutada, küsis ta hea sõber teda appi skaudi laagrisse.</p>
 					</div>
 					<div class="pure-u-1 pure-u-md-1-2 about-me">

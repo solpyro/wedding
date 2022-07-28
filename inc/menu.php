@@ -17,10 +17,10 @@
                         <li class="pure-menu-item"><a href="/" class="pure-menu-link">
                             <span lang="en">Home</span><span lang="et">Esileht</span>
                         </a></li>
-                        <li class="pure-menu-item"><a href="venues.php" class="pure-menu-link">
+                        <li class="pure-menu-item"><a href="/venues" class="pure-menu-link">
                             <span lang="en">Venues</span><span lang="et">Peokoht</span>
                         </a></li>
-                        <li class="pure-menu-item"><a href="rsvp.php" class="pure-menu-link">
+                        <li class="pure-menu-item"><a href="/rsvp" class="pure-menu-link">
                             <span>RSVP</span>
                         </a></li>
                         <li class="pure-menu-item"><a href="#" id="language-toggle" class="pure-menu-link">

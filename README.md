@@ -9,7 +9,7 @@ A small, simple site for us and our guests.
 0. [Placeholder countdown](https://github.com/solpyro/wedding/releases/tag/0.1.2) - Unbranded page with just our names and the countdown timer
 1. [Save the Date](https://github.com/solpyro/wedding/releases/tag/1.0.0) - Branded website containing the landing page only
 
-## Stage 1 - Before the wedding
+## Stage 2 - Before the wedding
 
 Adds a Venues page and an RSVP method.
 
@@ -24,10 +24,11 @@ Adds a Venues page and an RSVP method.
         - [ ] Info
     - Map
         - [x] Venues
-        - [ ] Transport links
+        - [x] Transport links
         - [ ] Suggested hotels
 - RSVP
-    - [ ] embedded google form?
+    - [x] embedded google form?
+- Schedule information?
 - [ ] Translations
 
 Other Potential elements:
@@ -35,13 +36,13 @@ Other Potential elements:
 - Engagement Photos
 - Donations
 
-## Stage 2 - Plans are locked
+## Stage 3 - Plans are locked
 
 Landing page remains, but the RSVP is disabled (replace with contact us directly instuctions?).  
 Details can be filled out a little more. Maybe not too much though?  
 Planned menu (subject to change)  
 
-## Stage 3 - The Big Day
+## Stage 4 - The Big Day
 
 Remove the timer  
 Thorough venue joining instructions  
@@ -50,7 +51,7 @@ Should have a section for any obvious questions
 - seating arrangement
 - menus
 
-## Stage 4 - The Aftermath
+## Stage 5 - The Aftermath
 
 Thanks page  
 Photo upload/download - just a link to a google photos album?
