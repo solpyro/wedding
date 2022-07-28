@@ -25,7 +25,6 @@ Adds a Venues page and an RSVP method.
     - Map
         - [x] Venues
         - [x] Transport links
-        - [ ] Suggested hotels
 - RSVP
     - [x] embedded google form?
 - Schedule information?
