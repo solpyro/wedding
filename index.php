@@ -4,7 +4,6 @@
 <?php include 'inc/head.php' ?>
 		
 		<link rel="stylesheet" href="css/index.css" />
-		<script type="text/javascript" src="js/countdown.js"></script>
 	</head>
 	<body class="loading">
 		<div id="page-container">
@@ -17,16 +16,13 @@
 				</div>
 				<h1 class="banner-title bottom">Katrin Kivistik<br /><span>&amp;</span><br />Stuart Kemp</h1>
 
-				<div class="countdown" id="countdown-en" lang="en">0 days, 0 hours, 0 minutes, 0 seconds</div>
-				<div class="countdown" id="countdown-et" lang="et">0 päeva, 0 tundi, 0 minutit, 0 sekundit</div>
-
 				<div class="save-the-date">
-					<p class="text" lang="en">&mdash; Save our date &mdash;</p>
-					<p class="text" lang="et">&mdash; Märgi meie päev &mdash;</p>
+					<p class="text" lang="en">&mdash; Our special date &mdash;</p>
+					<p class="text" lang="et">&mdash; Meie eriline päev &mdash;</p>
 					<p class="date" lang="en">11<sup>th</sup> September 2022</p>
 					<p class="date" lang="et">11. september 2022</p>
-					<p class="text" lang="en">We hope to see you in Tallinn</p>
-					<p class="text" lang="et">Loodame Teid näha Tallinnas</p>
+					<p class="text" lang="en">Thanks for visiting us in Tallinn</p>
+					<p class="text" lang="et">Aitäh, et külastasite meid Tallinnas</p>
 				</div>
 
 				<div class="pure-g center">
