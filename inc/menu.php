@@ -17,8 +17,8 @@
                         <li class="pure-menu-item"><a href="/" class="pure-menu-link">
                             <span lang="en">Home</span><span lang="et">Esileht</span>
                         </a></li>
-                        <li class="pure-menu-item"><a href="/rsvp" class="pure-menu-link">
-                            <span>RSVP</span>
+                        <li class="pure-menu-item"><a href="/photos" class="pure-menu-link">
+                            <span lang="en">Photos</span><span lang="et">Fotod</span>
                         </a></li>
                         <li class="pure-menu-item"><a href="#" id="language-toggle" class="pure-menu-link">
                             <span lang="en">Eesti keeles</span><span lang="et">In English</span>
