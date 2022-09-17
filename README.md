@@ -55,6 +55,16 @@ Should have a section for any obvious questions
 Thanks page  
 Photo upload/download - just a link to a google photos album?
 
+### To Do
+
+- Homepage
+    - [x] Remove timer
+    - [x] Reword to past tense
+- Thanks
+    - [ ] Thank a few special people
+- Photos
+    - [ ] Choose a selectio of photos
+
 ## Technologies
 
 - PHP, HTML5, CSS3, JS
